@@ -1,4 +1,2 @@
-#!/bin/bash
-for dir in . .. /boot
-do ls -la "$dir"
-done
+#!/bin/bash  # First line: shebang for bash interpreter
+ls -l . .. /boot  # Single line with all directories separated by spaces
