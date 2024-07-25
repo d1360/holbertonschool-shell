@@ -1,2 +1,2 @@
-#!/bin/bash  # First line: shebang for bash interpreter
-ls -l . .. /boot  # Single line with all directories separated by spaces
+#!/bin/bash
+ls -la . .. /boot
