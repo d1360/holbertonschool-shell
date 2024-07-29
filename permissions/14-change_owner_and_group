@@ -1,2 +1,2 @@
-#!/bin/bash
-for item in *; do chown vincent:staff "$item"; done
+#!/bin/bash 
+for item in * chown vincent:staff "$item
