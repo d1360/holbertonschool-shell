@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_dir chmod 751 my_dir
+if [ -d "my_dir" ]; then rm -r my_dir; fi
