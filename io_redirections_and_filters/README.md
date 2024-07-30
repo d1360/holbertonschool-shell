@@ -30,3 +30,6 @@ This script displays the 10 newest files in the current directory, sorted from t
 
 This script takes a list of words as input and prints only those words that appear exactly once in the sorted order.
 
+## 15-countthatword
+
+This script counts the number of lines in `/etc/passwd` that contain the pattern "bin".
