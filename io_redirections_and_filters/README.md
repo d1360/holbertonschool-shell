@@ -16,3 +16,7 @@ This script duplicates the last line of the file named `iacta`. The last line of
 
 This script deletes all regular files with a `.js` extension in the current directory and all its subdirectories.
 
+## Script 11-directories
+
+This script counts the number of directories and subdirectories in the current directory, excluding the current (`.`) and parent (`..`) directories. Hidden directories are included in the count.
+
