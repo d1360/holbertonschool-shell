@@ -24,3 +24,9 @@ This script counts the number of directories and subdirectories in the current d
 
 This script displays the 10 newest files in the current directory, sorted from the newest to the oldest. Each file is listed on a new line.
 
+# README
+
+## 13-unique
+
+This script takes a list of words as input and prints only those words that appear exactly once in the sorted order.
+
