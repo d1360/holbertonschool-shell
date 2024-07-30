@@ -12,3 +12,7 @@ This script writes the result of the command `ls -la` into a file named `ls_cwd_
 
 This script duplicates the last line of the file named `iacta`. The last line of the file is appended to the end of the file.
 
+## Script 10-no_more_js
+
+This script deletes all regular files with a `.js` extension in the current directory and all its subdirectories.
+
