@@ -34,3 +34,9 @@ This script lists all environment variables.
 
 This script lists all local variables, environment variables, and functions.
 
+# Project: init_files_variables_and_expansions
+
+## Script 7-create_global_variable
+
+This script creates a new global variable `BEST` with the value `School`.
+
