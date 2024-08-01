@@ -95,3 +95,14 @@ To use this script, run it with an input file containing the text you want to en
 ```bash
 ./15-rot13 < input_file
 
+# 16-odd
+
+This script prints every other line from the input, starting with the first line.
+
+## Usage
+
+To use this script, pipe the input into the script. For example, to list files and print every other line:
+
+```bash
+\ls -1 | ./16-odd
+
