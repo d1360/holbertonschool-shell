@@ -84,3 +84,14 @@ This script prints the number stored in the environment variable `NUM` with exac
 
 This script converts a decimal number stored in the environment variable `DECIMAL` to its hexadecimal representation. The result is displayed in base 16, followed by a new line.
 
+# 15-rot13
+
+This script encodes and decodes text using the ROT13 encryption method. ROT13 is a simple substitution cipher where each letter is replaced by the letter 13 positions after it in the alphabet. 
+
+## Usage
+
+To use this script, run it with an input file containing the text you want to encode or decode:
+
+```bash
+./15-rot13 < input_file
+
