@@ -72,3 +72,9 @@ This script converts a number from base 2 (binary) to base 10 (decimal). The bin
 
 This script prints all possible combinations of two lowercase letters (from 'a' to 'z'), except for "oo". Each combination is printed on a new line, and the output is alphabetically ordered starting with "aa". The script file contains a maximum of 64 characters.
 
+# Project: init_files_variables_and_expansions
+
+## Script 13-print_float
+
+This script prints the number stored in the environment variable `NUM` with exactly two decimal places, followed by a new line. It uses the `printf` command to format the number correctly.
+
