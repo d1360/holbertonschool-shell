@@ -28,3 +28,9 @@ This script counts the number of directories in the `PATH` environment variable.
 
 This script lists all environment variables.
 
+# Project: init_files_variables_and_expansions
+
+## Script 5-local_variables
+
+This script lists all local variables, environment variables, and functions.
+
