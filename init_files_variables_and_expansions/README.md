@@ -46,3 +46,9 @@ This script creates a new global variable `BEST` with the value `School`.
 
 This script prints the result of the addition of `128` with the value stored in the environment variable `TRUEKNOWLEDGE`, followed by a new line.
 
+# Project: init_files_variables_and_expansions
+
+## Script 9-divide_and_rule
+
+This script prints the result of dividing the value stored in the environment variable `POWER` by the value stored in the environment variable `DIVIDE`, followed by a new line.
+
