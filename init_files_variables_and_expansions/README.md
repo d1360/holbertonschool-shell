@@ -40,3 +40,9 @@ This script lists all local variables, environment variables, and functions.
 
 This script creates a new global variable `BEST` with the value `School`.
 
+# Project: init_files_variables_and_expansions
+
+## Script 8-true_knowledge
+
+This script prints the result of the addition of `128` with the value stored in the environment variable `TRUEKNOWLEDGE`, followed by a new line.
+
