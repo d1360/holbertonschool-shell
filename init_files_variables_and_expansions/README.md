@@ -65,3 +65,10 @@ This script displays the result of raising the value stored in the environment v
 
 This script converts a number from base 2 (binary) to base 10 (decimal). The binary number is stored in the environment variable `BINARY`, and the script displays the number in base 10, followed by a new line.
 
+
+# Project: init_files_variables_and_expansions
+
+## Script 12-combinations
+
+This script prints all possible combinations of two lowercase letters (from 'a' to 'z'), except for "oo". Each combination is printed on a new line, and the output is alphabetically ordered starting with "aa". The script file contains a maximum of 64 characters.
+
