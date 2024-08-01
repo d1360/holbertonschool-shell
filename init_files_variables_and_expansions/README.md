@@ -16,3 +16,9 @@ This script prints `hello user`, where `user` is the current Linux user.
 
 This script adds `/action` to the `PATH` environment variable, making it the last directory the shell looks into when searching for a program.
 
+# Project: init_files_variables_and_expansions
+
+## Script 3-paths
+
+This script counts the number of directories in the `PATH` environment variable.
+
