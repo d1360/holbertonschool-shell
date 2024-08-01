@@ -10,4 +10,9 @@ This script creates an alias `ls` with the value `rm *`. When sourced, it replac
 
 This script prints `hello user`, where `user` is the current Linux user.
 
+# Project: init_files_variables_and_expansions
+
+## Script 2-path
+
+This script adds `/action` to the `PATH` environment variable, making it the last directory the shell looks into when searching for a program.
 
