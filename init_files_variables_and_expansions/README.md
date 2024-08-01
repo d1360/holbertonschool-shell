@@ -78,3 +78,9 @@ This script prints all possible combinations of two lowercase letters (from 'a' 
 
 This script prints the number stored in the environment variable `NUM` with exactly two decimal places, followed by a new line. It uses the `printf` command to format the number correctly.
 
+# Project: init_files_variables_and_expansions
+
+## Script 14-decimal_to_hexadecimal
+
+This script converts a decimal number stored in the environment variable `DECIMAL` to its hexadecimal representation. The result is displayed in base 16, followed by a new line.
+
