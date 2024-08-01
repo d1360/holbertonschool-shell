@@ -52,3 +52,9 @@ This script prints the result of the addition of `128` with the value stored in 
 
 This script prints the result of dividing the value stored in the environment variable `POWER` by the value stored in the environment variable `DIVIDE`, followed by a new line.
 
+
+# Project: init_files_variables_and_expansions
+
+## Script 10-love_exponent_breath
+
+This script displays the result of raising the value stored in the environment variable `BREATH` to the power of the value stored in the environment variable `LOVE`, followed by a new line
