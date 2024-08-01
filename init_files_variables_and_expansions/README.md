@@ -58,3 +58,10 @@ This script prints the result of dividing the value stored in the environment va
 ## Script 10-love_exponent_breath
 
 This script displays the result of raising the value stored in the environment variable `BREATH` to the power of the value stored in the environment variable `LOVE`, followed by a new line
+
+# Project: init_files_variables_and_expansions
+
+## Script 11-binary_to_decimal
+
+This script converts a number from base 2 (binary) to base 10 (decimal). The binary number is stored in the environment variable `BINARY`, and the script displays the number in base 10, followed by a new line.
+
