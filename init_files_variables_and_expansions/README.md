@@ -22,3 +22,9 @@ This script adds `/action` to the `PATH` environment variable, making it the las
 
 This script counts the number of directories in the `PATH` environment variable.
 
+# Project: init_files_variables_and_expansions
+
+## Script 4-global_variables
+
+This script lists all environment variables.
+
