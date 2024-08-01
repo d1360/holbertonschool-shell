@@ -1,4 +1,4 @@
-# Project: init_files_variables_and_expansions
+# Project: initfilesvariablesandexpansions
 
 ## Script 0-alias
 
